@@ -1,9 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Bryan-Cee! 👋
 
-A little about me:
+Welcome to my GitHub profile! I'm thrilled to have you here. Here's a little about me:
 
-- 🔭 I’m currently working on building tools that make life easier for engineers so they can create kickass, user-friendly products.
-- 🌱 I’m currently learning a lot on Platform Engineering.
-- 💬 Ask me about **Javascript and Typescript**. 
-- 📫 How to reach me: bryce@brycesweb.com
-- ⚡ Fun fact: I love cats(🐈) 😁
+## 🧑‍💻 About Me
+- 🌱 I’m currently learning new technologies, frameworks, and best practices to grow as a developer.
+- 🚀 Passionate about building innovative solutions and contributing to open-source projects.
+- 🎯 Focused on writing clean, efficient, and maintainable code.
+
+## 💼 Skills
+- **Languages:** Typescript, JavaScript
+- **Frameworks:** React, Tailwind
+- **Tools:** Git, Docker
+- **Other:** Azure Cloud, CI/CD
+
+## 📈 GitHub Stats
+![Bryan-Cee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-Cee&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- **Email:** cheruiyotbryan@gmail.com
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/bryan-cee/)
+
+## 🌟 Fun Facts
+- 💡 I love solving challenging problems and learning something new every day.
+- 🎮 In my free time, you can find me gaming or exploring the latest in tech.
+
+---
+
+Feel free to explore my repositories and reach out if you’d like to collaborate on something exciting!
+
+Thanks for stopping by! 😊
