@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Here's a little abo
 
 ## 🌟 Fun Facts
 - 💡 I love solving challenging problems and learning something new every day.
-- 🎮 In my free time, you can find me gaming or exploring the latest in tech.
+- 🎮 In my free time, you can find me binge watching my favorite shows or exploring the latest in tech.
 
 ---
 
